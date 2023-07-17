@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SpeedIoTHubTrigger": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7055",
+      "launchBrowser": false
+    }
+  }
+}

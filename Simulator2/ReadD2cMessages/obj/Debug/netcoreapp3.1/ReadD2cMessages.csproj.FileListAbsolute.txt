@@ -1,0 +1,103 @@
+C:/Users/Derek/Desktop/azure-iot-samples-csharp-master/iot-hub/Quickstarts/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages.exe
+C:/Users/Derek/Desktop/azure-iot-samples-csharp-master/iot-hub/Quickstarts/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages.deps.json
+C:/Users/Derek/Desktop/azure-iot-samples-csharp-master/iot-hub/Quickstarts/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages.runtimeconfig.json
+C:/Users/Derek/Desktop/azure-iot-samples-csharp-master/iot-hub/Quickstarts/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages.runtimeconfig.dev.json
+C:/Users/Derek/Desktop/azure-iot-samples-csharp-master/iot-hub/Quickstarts/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages.dll
+C:/Users/Derek/Desktop/azure-iot-samples-csharp-master/iot-hub/Quickstarts/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages.pdb
+C:/Users/Derek/Desktop/azure-iot-samples-csharp-master/iot-hub/Quickstarts/ReadD2cMessages/bin/Debug/netcoreapp3.1/Azure.Core.dll
+C:/Users/Derek/Desktop/azure-iot-samples-csharp-master/iot-hub/Quickstarts/ReadD2cMessages/bin/Debug/netcoreapp3.1/Azure.Messaging.EventHubs.dll
+C:/Users/Derek/Desktop/azure-iot-samples-csharp-master/iot-hub/Quickstarts/ReadD2cMessages/bin/Debug/netcoreapp3.1/CommandLine.dll
+C:/Users/Derek/Desktop/azure-iot-samples-csharp-master/iot-hub/Quickstarts/ReadD2cMessages/bin/Debug/netcoreapp3.1/Microsoft.Azure.Amqp.dll
+C:/Users/Derek/Desktop/azure-iot-samples-csharp-master/iot-hub/Quickstarts/ReadD2cMessages/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Derek/Desktop/azure-iot-samples-csharp-master/iot-hub/Quickstarts/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.csprojAssemblyReference.cache
+C:/Users/Derek/Desktop/azure-iot-samples-csharp-master/iot-hub/Quickstarts/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.AssemblyInfoInputs.cache
+C:/Users/Derek/Desktop/azure-iot-samples-csharp-master/iot-hub/Quickstarts/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.AssemblyInfo.cs
+C:/Users/Derek/Desktop/azure-iot-samples-csharp-master/iot-hub/Quickstarts/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.csproj.CoreCompileInputs.cache
+C:/Users/Derek/Desktop/azure-iot-samples-csharp-master/iot-hub/Quickstarts/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.csproj.CopyComplete
+C:/Users/Derek/Desktop/azure-iot-samples-csharp-master/iot-hub/Quickstarts/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.dll
+C:/Users/Derek/Desktop/azure-iot-samples-csharp-master/iot-hub/Quickstarts/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.pdb
+C:/Users/Derek/Desktop/azure-iot-samples-csharp-master/iot-hub/Quickstarts/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.genruntimeconfig.cache
+C:/Users/Derek/Desktop/azure-iot-samples-csharp-master/iot-hub/Quickstarts/ReadD2cMessages/bin/Debug/netcoreapp3.1/System.Memory.Data.dll
+C:/Dropbox/Teaching/derekfoster1976.github.io/CMP9785M/code/workshop 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages.exe
+C:/Dropbox/Teaching/derekfoster1976.github.io/CMP9785M/code/workshop 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages.deps.json
+C:/Dropbox/Teaching/derekfoster1976.github.io/CMP9785M/code/workshop 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages.runtimeconfig.json
+C:/Dropbox/Teaching/derekfoster1976.github.io/CMP9785M/code/workshop 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages.runtimeconfig.dev.json
+C:/Dropbox/Teaching/derekfoster1976.github.io/CMP9785M/code/workshop 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages.dll
+C:/Dropbox/Teaching/derekfoster1976.github.io/CMP9785M/code/workshop 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages.pdb
+C:/Dropbox/Teaching/derekfoster1976.github.io/CMP9785M/code/workshop 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/Azure.Core.dll
+C:/Dropbox/Teaching/derekfoster1976.github.io/CMP9785M/code/workshop 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/Azure.Messaging.EventHubs.dll
+C:/Dropbox/Teaching/derekfoster1976.github.io/CMP9785M/code/workshop 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/CommandLine.dll
+C:/Dropbox/Teaching/derekfoster1976.github.io/CMP9785M/code/workshop 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/Microsoft.Azure.Amqp.dll
+C:/Dropbox/Teaching/derekfoster1976.github.io/CMP9785M/code/workshop 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Dropbox/Teaching/derekfoster1976.github.io/CMP9785M/code/workshop 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/System.Memory.Data.dll
+C:/Dropbox/Teaching/derekfoster1976.github.io/CMP9785M/code/workshop 2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.csprojAssemblyReference.cache
+C:/Dropbox/Teaching/derekfoster1976.github.io/CMP9785M/code/workshop 2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.AssemblyInfoInputs.cache
+C:/Dropbox/Teaching/derekfoster1976.github.io/CMP9785M/code/workshop 2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.AssemblyInfo.cs
+C:/Dropbox/Teaching/derekfoster1976.github.io/CMP9785M/code/workshop 2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.csproj.CoreCompileInputs.cache
+C:/Dropbox/Teaching/derekfoster1976.github.io/CMP9785M/code/workshop 2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.csproj.CopyComplete
+C:/Dropbox/Teaching/derekfoster1976.github.io/CMP9785M/code/workshop 2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.dll
+C:/Dropbox/Teaching/derekfoster1976.github.io/CMP9785M/code/workshop 2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.pdb
+C:/Dropbox/Teaching/derekfoster1976.github.io/CMP9785M/code/workshop 2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.genruntimeconfig.cache
+F:/Google Drive/University of Lincoln/2021-2022/Cloud Development/Workshop Code/Week 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages.exe
+F:/Google Drive/University of Lincoln/2021-2022/Cloud Development/Workshop Code/Week 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages.deps.json
+F:/Google Drive/University of Lincoln/2021-2022/Cloud Development/Workshop Code/Week 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages.runtimeconfig.json
+F:/Google Drive/University of Lincoln/2021-2022/Cloud Development/Workshop Code/Week 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages.runtimeconfig.dev.json
+F:/Google Drive/University of Lincoln/2021-2022/Cloud Development/Workshop Code/Week 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages.dll
+F:/Google Drive/University of Lincoln/2021-2022/Cloud Development/Workshop Code/Week 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages.pdb
+F:/Google Drive/University of Lincoln/2021-2022/Cloud Development/Workshop Code/Week 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/Azure.Core.dll
+F:/Google Drive/University of Lincoln/2021-2022/Cloud Development/Workshop Code/Week 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/Azure.Messaging.EventHubs.dll
+F:/Google Drive/University of Lincoln/2021-2022/Cloud Development/Workshop Code/Week 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/CommandLine.dll
+F:/Google Drive/University of Lincoln/2021-2022/Cloud Development/Workshop Code/Week 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/Microsoft.Azure.Amqp.dll
+F:/Google Drive/University of Lincoln/2021-2022/Cloud Development/Workshop Code/Week 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+F:/Google Drive/University of Lincoln/2021-2022/Cloud Development/Workshop Code/Week 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/System.Memory.Data.dll
+F:/Google Drive/University of Lincoln/2021-2022/Cloud Development/Workshop Code/Week 2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.csproj.AssemblyReference.cache
+F:/Google Drive/University of Lincoln/2021-2022/Cloud Development/Workshop Code/Week 2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.GeneratedMSBuildEditorConfig.editorconfig
+F:/Google Drive/University of Lincoln/2021-2022/Cloud Development/Workshop Code/Week 2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.AssemblyInfoInputs.cache
+F:/Google Drive/University of Lincoln/2021-2022/Cloud Development/Workshop Code/Week 2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.AssemblyInfo.cs
+F:/Google Drive/University of Lincoln/2021-2022/Cloud Development/Workshop Code/Week 2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.csproj.CoreCompileInputs.cache
+F:/Google Drive/University of Lincoln/2021-2022/Cloud Development/Workshop Code/Week 2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.csproj.CopyComplete
+F:/Google Drive/University of Lincoln/2021-2022/Cloud Development/Workshop Code/Week 2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.dll
+F:/Google Drive/University of Lincoln/2021-2022/Cloud Development/Workshop Code/Week 2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.pdb
+F:/Google Drive/University of Lincoln/2021-2022/Cloud Development/Workshop Code/Week 2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.genruntimeconfig.cache
+/Users/rolly/Desktop/MScWork/CloudDevelopment/workshop 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages
+/Users/rolly/Desktop/MScWork/CloudDevelopment/workshop 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages.deps.json
+/Users/rolly/Desktop/MScWork/CloudDevelopment/workshop 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages.runtimeconfig.json
+/Users/rolly/Desktop/MScWork/CloudDevelopment/workshop 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages.runtimeconfig.dev.json
+/Users/rolly/Desktop/MScWork/CloudDevelopment/workshop 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages.dll
+/Users/rolly/Desktop/MScWork/CloudDevelopment/workshop 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages.pdb
+/Users/rolly/Desktop/MScWork/CloudDevelopment/workshop 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/Azure.Core.dll
+/Users/rolly/Desktop/MScWork/CloudDevelopment/workshop 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/Azure.Messaging.EventHubs.dll
+/Users/rolly/Desktop/MScWork/CloudDevelopment/workshop 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/CommandLine.dll
+/Users/rolly/Desktop/MScWork/CloudDevelopment/workshop 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/Microsoft.Azure.Amqp.dll
+/Users/rolly/Desktop/MScWork/CloudDevelopment/workshop 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/rolly/Desktop/MScWork/CloudDevelopment/workshop 2/ReadD2cMessages/bin/Debug/netcoreapp3.1/System.Memory.Data.dll
+/Users/rolly/Desktop/MScWork/CloudDevelopment/workshop 2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.csproj.AssemblyReference.cache
+/Users/rolly/Desktop/MScWork/CloudDevelopment/workshop 2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rolly/Desktop/MScWork/CloudDevelopment/workshop 2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.AssemblyInfoInputs.cache
+/Users/rolly/Desktop/MScWork/CloudDevelopment/workshop 2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.AssemblyInfo.cs
+/Users/rolly/Desktop/MScWork/CloudDevelopment/workshop 2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.csproj.CoreCompileInputs.cache
+/Users/rolly/Desktop/MScWork/CloudDevelopment/workshop 2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.csproj.CopyComplete
+/Users/rolly/Desktop/MScWork/CloudDevelopment/workshop 2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.dll
+/Users/rolly/Desktop/MScWork/CloudDevelopment/workshop 2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.pdb
+/Users/rolly/Desktop/MScWork/CloudDevelopment/workshop 2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.genruntimeconfig.cache
+/Users/rolly/Desktop/MScWork/CloudDevelopment/Simulator2/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages
+/Users/rolly/Desktop/MScWork/CloudDevelopment/Simulator2/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages.deps.json
+/Users/rolly/Desktop/MScWork/CloudDevelopment/Simulator2/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages.runtimeconfig.json
+/Users/rolly/Desktop/MScWork/CloudDevelopment/Simulator2/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages.runtimeconfig.dev.json
+/Users/rolly/Desktop/MScWork/CloudDevelopment/Simulator2/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages.dll
+/Users/rolly/Desktop/MScWork/CloudDevelopment/Simulator2/ReadD2cMessages/bin/Debug/netcoreapp3.1/ReadD2cMessages.pdb
+/Users/rolly/Desktop/MScWork/CloudDevelopment/Simulator2/ReadD2cMessages/bin/Debug/netcoreapp3.1/Azure.Core.dll
+/Users/rolly/Desktop/MScWork/CloudDevelopment/Simulator2/ReadD2cMessages/bin/Debug/netcoreapp3.1/Azure.Messaging.EventHubs.dll
+/Users/rolly/Desktop/MScWork/CloudDevelopment/Simulator2/ReadD2cMessages/bin/Debug/netcoreapp3.1/CommandLine.dll
+/Users/rolly/Desktop/MScWork/CloudDevelopment/Simulator2/ReadD2cMessages/bin/Debug/netcoreapp3.1/Microsoft.Azure.Amqp.dll
+/Users/rolly/Desktop/MScWork/CloudDevelopment/Simulator2/ReadD2cMessages/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/rolly/Desktop/MScWork/CloudDevelopment/Simulator2/ReadD2cMessages/bin/Debug/netcoreapp3.1/System.Memory.Data.dll
+/Users/rolly/Desktop/MScWork/CloudDevelopment/Simulator2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.csproj.AssemblyReference.cache
+/Users/rolly/Desktop/MScWork/CloudDevelopment/Simulator2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rolly/Desktop/MScWork/CloudDevelopment/Simulator2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.AssemblyInfoInputs.cache
+/Users/rolly/Desktop/MScWork/CloudDevelopment/Simulator2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.AssemblyInfo.cs
+/Users/rolly/Desktop/MScWork/CloudDevelopment/Simulator2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.csproj.CoreCompileInputs.cache
+/Users/rolly/Desktop/MScWork/CloudDevelopment/Simulator2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.csproj.CopyComplete
+/Users/rolly/Desktop/MScWork/CloudDevelopment/Simulator2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.dll
+/Users/rolly/Desktop/MScWork/CloudDevelopment/Simulator2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.pdb
+/Users/rolly/Desktop/MScWork/CloudDevelopment/Simulator2/ReadD2cMessages/obj/Debug/netcoreapp3.1/ReadD2cMessages.genruntimeconfig.cache
