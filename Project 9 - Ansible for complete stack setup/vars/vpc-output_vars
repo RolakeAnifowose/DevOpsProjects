@@ -1,0 +1,12 @@
+region: us-east-2
+vpcid: vpc-0bec7655919554e0d
+pubsub1id: subnet-0509bdf8b4f616565
+pubsub2id: subnet-07403281e96341cf8
+pubsub3id: subnet-0079d1c4a750e0836
+privsub1id: subnet-02264f55a6c930cc0
+privsub2id: subnet-0f697e4cb82f0803e
+privsub3id: subnet-0fccc70f90665c8fd
+igwid: igw-0f001fd29324cc012
+pubRTid: rtb-06531150a5be2472b
+NATGWid: nat-0d1caea75ea309071
+BastionSGid: sg-06e602c65ce83a014
